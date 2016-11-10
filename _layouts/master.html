@@ -3,9 +3,7 @@
     {% include head.html %}
 
     <body>
-        {% comment %}
         {% include navigation.html %}
-        {% endcomment %}
 
         {% if page.include %}
             {% include {{ page.include }}.html %}
