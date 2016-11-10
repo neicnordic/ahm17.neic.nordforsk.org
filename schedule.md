@@ -66,7 +66,7 @@ schedule:
           title: Practical information
         - time: 09:00 - 11:00
           type: workshop
-          title: Team sessions
+          title: Team session
         - time: 11:00 - 12:00
           type: plenary
           title: Closing session including survey discussion
