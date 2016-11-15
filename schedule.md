@@ -26,12 +26,21 @@ schedule:
         - time: 10:15 - 15:00
           type: recreation
           title: Break and lunch
-        - time: 15:00 - 17:00
+        - time: 15:00 - 16:30
           type: plenary
           title: Project presentation and discussion
-        - time: 17:00 - 18:30
+          chair: TBA
+        - time: 16:30 - 17:00
+          type: recreation
+          title: Coffee break
+        - time: 17:00 - 18:00
           type: plenary
-          title: Cross-project team building and brainstorming
+          title: Project presentation and discussion
+          chair: TBA
+        - time: 18:00 - 18:40
+          type: plenary
+          title: 'Joel Hedlund: "How to succeed in life"'
+          chair: Michaela Barth
         - time: 18:40 - 19:00
           type: plenary
           title: Teamwork challenge briefing
@@ -52,9 +61,17 @@ schedule:
         - time: 10:30 - 15:00
           type: recreation
           title: Break and lunch
-        - time: 15:00 - 19:00
+        - time: 15:00 - 16:30
+          type: plenary
+          title: Teamwork challenge
+          chair: TBA
+        - time: 16:30 - 17:00
+          type: recreation
+          title: Coffee break
+        - time: 17:00 - 19:00
           type: plenary
           title: Teamwork challenge and competition
+          chair: TBA
         - time: 19:00 - 20:00
           type: recreation
           title: Break
@@ -69,9 +86,11 @@ schedule:
         - time: 09:00 - 11:00
           type: workshop
           title: Team session
+          chair: Individual team leaders
         - time: 11:00 - 12:00
           type: plenary
           title: Closing session including survey discussion
+          chair: Radovan Bast
         - time: 12:00 - 13:00
           type: recreation
           title: Lunch
