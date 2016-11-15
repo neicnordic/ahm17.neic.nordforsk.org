@@ -20,7 +20,8 @@ schedule:
           title: Practical information
         - time: 09:00 - 10:15
           type: plenary
-          title: Keynote (45 min talk, 30 min discussion)
+          title: 'Michael Gronager: "Towards the stateful internet: the Blockchain as a ubiquitous compute resource for research" (keynote)'
+          chair: Michaela Barth
         - time: 10:15 - 15:00
           type: recreation
           title: Break and lunch

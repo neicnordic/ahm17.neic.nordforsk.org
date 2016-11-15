@@ -25,6 +25,10 @@
                                             </td>
                                             <td>
                                                 {{ section.title }}
+                                                {% if section.chair %}
+                                                    <br>
+                                                    Chair: {{ section.chair }}
+                                                {% endif %}
                                             </td>
                                     </tr>
                                 {% endfor %}
