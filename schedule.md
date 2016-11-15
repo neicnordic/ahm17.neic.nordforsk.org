@@ -9,7 +9,8 @@ schedule:
           title: Check-in and registration
         - time: 18:00 - 19:30
           type: plenary
-          title: Opening session
+          title: Opening session with an introduction by Gudmund Høst
+          chair: Radovan Bast
         - time: 19:30 - 21:00
           type: recreation
           title: Dinner
