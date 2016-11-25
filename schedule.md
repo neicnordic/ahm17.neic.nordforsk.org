@@ -37,13 +37,13 @@ schedule:
           type: plenary
           title: Project presentation and discussion
           chair: TBA
-        - time: 18:00 - 18:40
+        - time: 18:00 - 18:50
           type: plenary
           title: 'Joel Hedlund: "How to succeed in life"'
           chair: Michaela Barth
-        - time: 18:40 - 19:00
+        - time: 18:50 - 19:00
           type: plenary
-          title: Teamwork challenge briefing
+          title: 'Petter A. Urkedal: Teamwork challenge briefing'
         - time: 19:00 - 20:00
           type: recreation
           title: Break - spa is open!
@@ -64,14 +64,14 @@ schedule:
         - time: 15:00 - 16:30
           type: plenary
           title: Teamwork challenge
-          chair: TBA
+          chair: Petter A. Urkedal
         - time: 16:30 - 17:00
           type: recreation
           title: Coffee break
         - time: 17:00 - 19:00
           type: plenary
           title: Teamwork challenge and competition
-          chair: TBA
+          chair: Petter A. Urkedal
         - time: 19:00 - 20:00
           type: recreation
           title: Break
