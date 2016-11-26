@@ -4,6 +4,7 @@
             <h2>Tentative schedule</h2>
             <div class="table-responsive">
                 {% for day in page.schedule %}
+                    {% assign day_index = forloop.index %}
                     <a href="#list_{{ forloop.index0 }}" class="list-group-item list-group-item-info strong"
                        data-toggle="collapse"
                        data-parent="#param-menu"><b>{{ day.day }}</b></a>
@@ -13,23 +14,22 @@
                         <table class="table table-hover">
                             <tbody>
                                 {% for section in day.sections %}
-                                    {% if section.type == 'workshop' %}
-                                        <tr class="danger">
-                                    {% elsif section.type == 'plenary' %}
-                                        <tr class="warning">
-                                    {% else %}
-                                        <tr class="success">
-                                    {% endif %}
-                                            <td style="width:120px">
-                                                {{ section.time }}
-                                            </td>
-                                            <td>
-                                                {{ section.title }}
-                                                {% if section.chair %}
-                                                    <br>
-                                                    Chair: {{ section.chair }}
-                                                {% endif %}
-                                            </td>
+                                    {% assign section_index = forloop.index %}
+                                    <tr id="highlight-{{ day_index }}-{{ section_index }}" class="{[ get_class('{{ section.type }}', '{{ day_index }}-{{ section_index }}') ]}">
+                                        <td style="width:120px">
+                                            {{ section.time }}
+                                        </td>
+                                        <td>
+                                            <a class="anchor" id="{{ day_index }}-{{ section_index }}"></a>
+                                            {{ section.title }}
+                                            <div id="anchor" style="display: inline;">
+                                                <a href="#{{ day_index }}-{{ section_index }}" ng-click='reload()'>$</a>
+                                            </div>
+                                            {% if section.chair %}
+                                                <br>
+                                                Chair: {{ section.chair }}
+                                            {% endif %}
+                                        </td>
                                     </tr>
                                 {% endfor %}
                             </tbody>

@@ -2,13 +2,15 @@
 <html lang="en">
     {% include head.html %}
 
-    <body>
-        {% include navigation.html %}
+    <body ng-app="app">
+        <div ng-controller="controller">
+            {% include navigation.html %}
 
-        {% if page.include %}
-            {% include {{ page.include }}.html %}
-        {% endif %}
+            {% if page.include %}
+                {% include {{ page.include }}.html %}
+            {% endif %}
 
-        {% include js.html %}
+            {% include js.html %}
+        </div>
     </body>
 </html>
