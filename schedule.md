@@ -26,17 +26,20 @@ schedule:
         - time: 10:15 - 15:00
           type: recreation
           title: Break and lunch
-        - time: 15:00 - 16:30
+        - time: 15:00 - 15:50
           type: plenary
-          title: Project presentation and discussion
-          chair: TBA
-        - time: 16:30 - 17:00
+          title: 'Cross-team session: Intro and phase 1'
+          chair: Thomas Röblitz
+        - time: 15:50 - 16:20
           type: recreation
           title: Coffee break
-        - time: 17:00 - 18:00
+        - time: 16:20 - 17:50
           type: plenary
-          title: Project presentation and discussion
-          chair: TBA
+          title: 'Cross-team session: Phase 2 and 3'
+          chair: Thomas Röblitz
+        - time: 17:50 - 18:00
+          type: recreation
+          title: Break
         - time: 18:00 - 18:50
           type: plenary
           title: 'Joel Hedlund: "How to succeed in life"'
