@@ -35,9 +35,11 @@ app.run(function($rootScope, $location, $anchorScroll) {
 // all scope variables and functions live in this namespace
 // they are visible in the django view when inside the corresponding angular div
 // all the angular business logic is inside this controller
-app.controller('controller', ['$scope', '$http', '$location', '$window', function($scope, $http, $location, $window) {
+app.controller('controller', ['$scope', '$http', '$location', function($scope, $http, $location) {
 
     var hash = $location.hash();
+
+    $scope.url = 'http://' + location.host + '/schedule/';
 
     var hash_is_set = (hash != '');
 
@@ -59,11 +61,6 @@ app.controller('controller', ['$scope', '$http', '$location', '$window', functio
         {
             return type;
         }
-    }
-
-    $scope.reload = function()
-    {
-        $window.location.reload();
     }
 
 }]);  // close controller

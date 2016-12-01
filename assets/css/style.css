@@ -36,15 +36,6 @@ a.anchor {
 }
 
 
-#anchor a:link,
-#anchor a:visited {
-   color: #d0d0d0;
-}
-#anchor a:hover {
-   color: #000000;
-}
-
-
 .recreation {
     background-color: #bbf0d6;
 }
@@ -86,4 +77,13 @@ a.anchor {
        -moz-animation: fadeIt 2s ease-in-out;
          -o-animation: fadeIt 2s ease-in-out;
             animation: fadeIt 2s ease-in-out;
+}
+
+
+.hover_area .hidden_area {
+    display: none;
+}
+
+.hover_area:hover .hidden_area {
+    display: inline;
 }
