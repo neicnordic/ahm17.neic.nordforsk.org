@@ -7,3 +7,5 @@ main:
     text: 'Tutorials'
   - url: '/practical/'
     text: 'Practical'
+  - url: 'https://github.com/neicnordic/ahm17.neic.nordforsk.org'
+    text: 'Sources'
