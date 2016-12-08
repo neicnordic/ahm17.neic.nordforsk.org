@@ -71,4 +71,8 @@ kramdown:
     coderay_bold_every:        10
     coderay_css:               style
 
-include: ['_pages']
+include: []
+
+collections:
+  tutorials:
+    output: false
