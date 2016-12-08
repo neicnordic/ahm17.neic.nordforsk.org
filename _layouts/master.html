@@ -6,9 +6,11 @@
         <div ng-controller="controller">
             {% include navigation.html %}
 
-            {% if page.include %}
-                {% include {{ page.include }}.html %}
-            {% endif %}
+            <div class="container">
+                {% if page.include %}
+                    {% include {{ page.include }}.html %}
+                {% endif %}
+            </div>
 
             {% include js.html %}
         </div>

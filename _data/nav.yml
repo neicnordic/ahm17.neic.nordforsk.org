@@ -3,3 +3,5 @@ main:
     text: 'Home'
   - url: '/schedule/'
     text: 'Schedule'
+  - url: '/practical/'
+    text: 'Practical'
