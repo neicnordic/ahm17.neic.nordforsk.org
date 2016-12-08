@@ -1,9 +1,10 @@
+
 body {
     background: #ffffff;
     margin: 0;
     height: 100%;
     color: #606060;
-    font-family: 'Open sans', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-weight: 400;
     margin-top: 100px;
 }
@@ -33,6 +34,11 @@ a.anchor {
     position: relative;
     top: -150px;
     visibility: hidden;
+}
+
+
+.white {
+    color: #ffffff;
 }
 
 
