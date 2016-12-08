@@ -11,12 +11,12 @@ body {
 
 h1 {
     font-size: 41px;
-    color: #5a4099;
+    color: #ffffff;
 }
 
 h2 {
     font-size: 30px;
-    color: #5a4099;
+    color: #ffffff;
 }
 
 h3 {
@@ -34,11 +34,6 @@ a.anchor {
     position: relative;
     top: -150px;
     visibility: hidden;
-}
-
-
-.white {
-    color: #ffffff;
 }
 
 
