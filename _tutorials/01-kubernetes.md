@@ -11,4 +11,4 @@ They will also see how we can automate DNS, SSL certs too when deploying
 application on Kubernetes. The list required software to be pre-installed on
 your laptop will be provided before the workshop.
 
-Basic understanding of containers (Docker) can be helpful for this tutorial.
+Basic understanding of containers ([Docker](https://www.docker.com)) can be helpful for this tutorial.
