@@ -28,7 +28,7 @@ Examples:
 - How SOMEBODY_ELSE uses SERVICE_Y to do GOOD_THING_2.
 - ...
 
-Please let us know on slack #ahm17 which examples you're interested in hearing
+Please let us know on slack #ahm which examples you're interested in hearing
 about, and we'll try and prepare something to show and discuss! Please feel
 free to propose NAMES, SERVICES and THINGS that you want to know more about,
 and we'll try to make it fly!
