@@ -83,18 +83,11 @@ schedule:
           title: Dinner
     - day: Thursday, January 26, 2017
       sections:
-        - time: 08:50 - 09:00
-          type: plenary
-          title: Practical information
-        - time: 09:00 - 11:00
+        - time: 08:45 - 12:00
           type: workshop
           title: Team session
           chair: Individual team leaders
-        - time: 11:00 - 12:00
-          type: plenary
-          title: Closing session including survey discussion
-          chair: Radovan Bast
         - time: 12:00 - 13:00
           type: recreation
-          title: Lunch
+          title: Practical information and lunch
 ---
