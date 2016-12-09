@@ -33,10 +33,12 @@ swimming trunks or ski boots for use of amenities out of scheduled hours.
 
 ### Intended participants
 
-The intended participants of the AHM are personnel engaged in NeIC operations
-or projects. The program will include a major component of social networking,
-attempting to mitigate the effects of the completely distributed nature of NeIC
-and facilitate excellent working relations.
+The intended participants of the AHM are personnel contracted in NeIC
+operations or projects. If you are engaged in a NeIC project and not sure
+whether you should participate, please contact your team leader.  The program
+will include a major component of social networking, attempting to mitigate the
+effects of the completely distributed nature of NeIC and facilitate excellent
+working relations.
 
 
 ### Other participants
