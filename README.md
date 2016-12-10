@@ -5,7 +5,7 @@
 
 ## Contributions are welcome
 
-- Please contribute improvements in structure, text, and styling
+Please contribute improvements in structure, text, and styling.
 
 
 ## How to serve this page locally
