@@ -1,4 +1,12 @@
-# Sources behind http://ahm17.neic.nordforsk.org
+# Sources behind the AHM website
+
+- http://ahm17.neic.nordforsk.org
+
+
+## Contributions are welcome
+
+- Please contribute improvements in structure, text, and styling
+
 
 ## How to serve this page locally
 
