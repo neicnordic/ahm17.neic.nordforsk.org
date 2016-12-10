@@ -40,7 +40,7 @@ strategy.
 
 The NeIC board has asked the NeIC director to propose - within three months -
 concrete measures to address the issue. Subsequently, NeIC management has
-summoed staff to a mountain resort to develop a plan for fostering
+summoned staff to a mountain resort to develop a plan for fostering
 cross-project collaboration supporting the NeIC strategy.
 
 Consider the following (recent) observations to guide your proposals in saving
