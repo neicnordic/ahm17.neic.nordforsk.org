@@ -1,6 +1,6 @@
 ---
 layout: master
-include: crossteam
+include: default
 ---
 
 ### Cross-team sessions' goals
