@@ -35,8 +35,8 @@ In its last meeting in 2016, the NeIC board was impressed with progress in
 the implementation of the NeIC 2016-2020 strategy, and particularly with the
 achievements of each of the NeIC teams in 2016. It was noted, however, that
 there is little to no collaboration among the various projects and
-activities, and hence they cannot collaboratively support implementing NeIC's
-strategy.
+activities, and hence they cannot collaboratively support the implementation
+of NeIC's strategy.
 
 The NeIC board has asked the NeIC director to propose - within three months -
 concrete measures to address the issue. Subsequently, NeIC management has
