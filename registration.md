@@ -13,6 +13,6 @@ Before you register:
   bus departures when registering.
 
 After you register you should receive an automatic confirmation email
-containing a summary of the fields you have entered. If not, please complain [here](/contact/).
+containing a summary of the fields you have entered. If not, please [contact us](/contact/).
 
 Registration deadline is Sunday, Dec 18, 2016.
