@@ -64,12 +64,26 @@ the NeIC director:
 Propose concrete actions, develop ideas for future projects or define
 specific outcomes requiring / utilizing collaborations among ongoing
 or emerging projects and activities to support the NeIC 2016-2020
-strategy. Each group will present and defend its findings to the
+strategy. Target specific combinations of 2, 3, old and new, or all
+projects. Define milestones at 6, 12 and 24 months, and estimate budget
+implications. Answer questions such as
+
+- Why collaborate?
+- How to collaborate?
+- How to measure success?
+
+Each group will present and defend its findings to the
 audience. Note, this is not just for fun, the proposals shall be
 followed up by the various interlinked bodies of NeIC (XT, provider
 forum, data management forum, project management forum) ... not
 kidding. Plus, the best proposal and quickest evaluators (everyone)
 will win prices.
+
+Tentative evaluation criteria
+
+- originality
+- feasability
+- enjoyment
 
 ### Format
 
