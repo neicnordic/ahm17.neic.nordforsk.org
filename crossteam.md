@@ -119,4 +119,5 @@ once registration is finalized.
 ### Resources
 
 - one page primers
+-- <a href="/media/one_page_primer_bdi.pdf">Biodiversity project</a>
 - links to NeIC wiki
