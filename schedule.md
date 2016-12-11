@@ -28,14 +28,14 @@ schedule:
           title: Break and lunch
         - time: 15:00 - 15:50
           type: plenary
-          title: 'Cross-team session: Intro and phase 1'
+          title: '<a href="/crossteam/">Cross-team session: Intro and phase 1</a>'
           chair: Thomas Röblitz
         - time: 15:50 - 16:20
           type: recreation
           title: Coffee break
         - time: 16:20 - 17:50
           type: plenary
-          title: 'Cross-team session: Phase 2 and 3'
+          title: '<a href="/crossteam/">Cross-team session: Phase 2 and 3</a>'
           chair: Thomas Röblitz
         - time: 17:50 - 18:00
           type: recreation

@@ -1,6 +1,6 @@
 ---
 layout: master
-include: crossteam
+include: default
 ---
 
 ### Cross-team sessions' goals
@@ -82,7 +82,7 @@ will win prices.
 Tentative evaluation criteria
 
 - originality
-- feasability
+- feasibility
 - enjoyment
 
 ### Format
@@ -92,7 +92,7 @@ managers (project specific) and XT members (strategy related) will
 be available to answer any question coming up during phases 1 & 2
 (see schedule below). Communication between groups and project
 managers and XT members shall happen via Slack channels, e.g., on
-#tryggve for questions about Tryggve or on #xt for questions about
+\#tryggve for questions about Tryggve or on \#xt for questions about
 the strategy. In case, network or Slack is unavailable there will be a
 fallback solution.
 

@@ -1,6 +1,6 @@
 ---
 layout: master
-include: practical
+include: default
 ---
 
 ### Venue
