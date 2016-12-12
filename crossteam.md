@@ -120,4 +120,5 @@ once registration is finalized.
 
 - one page primers:
   - <a href="/media/one_page_primer_bdi.pdf">Biodiversity project</a>
-- web pages: <a href="https://wiki.neic.no/wiki/NeIC_Community_Wiki">NeIC wiki</a>
+- web pages:
+  - <a href="https://wiki.neic.no/wiki/NeIC_Community_Wiki">NeIC wiki</a>
