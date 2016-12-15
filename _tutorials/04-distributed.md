@@ -19,11 +19,11 @@ What are some bad tools? Why did you try them out? Why didn't they work?
 
 Examples:
 
-- How NBIS (Jonas) uses [Spotify Rythm](https://goo.gl/ao0pZQ) to coordinate system development prioritization.
+- How Jonas/NBIS uses [Spotify Rythm](https://goo.gl/ao0pZQ) to coordinate system development prioritization.
 - How Joel works with Google docs in stakeholder engagement for Tryggve1/2, live minutes.
 - How Radovan works with Trello to track work in NeIC 2017 conference program.
-- How NBIS (Jonas) uses [Zenhub](https://www.zenhub.com/) to coordinate software development.
-- How NBIS (Jonas) uses [Slack for Education](https://get.slack.help/hc/en-us/articles/206646877-Slack-for-Education) with a lot of integrations to improve distributed work (Zenhub, github, hangout, uptimerobot, growbot...).
+- How Jonas/NBIS uses [Zenhub](https://www.zenhub.com/) to coordinate software development.
+- How Jonas/NBIS uses [Slack for Education](https://get.slack.help/hc/en-us/articles/206646877-Slack-for-Education) with a lot of integrations to improve distributed work (Zenhub, github, hangout, uptimerobot, growbot...).
 - How Joel uses [Google Hangouts](https://goo.gl/WzUF7G) to set up *bad* video meetings that lock out _everyone_ at the last minute.
 - How Joel wrote the [NeIC policies](https://wiki.neic.no/wiki/Category:Policy) to help you write less reports.
 - How You can use the [Slack export service](https://neic.slack.com/services/export) and grep to recall what people said on that important subject one year ago.
