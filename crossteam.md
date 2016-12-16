@@ -119,7 +119,8 @@ once registration is finalized.
 ### Resources
 
 - one page primers:
-  - <a href="/media/one_page_primer_bdi.pdf">Biodiversity project</a>
+  - projects: <a href="/media/one_page_primer_bdi.pdf">Biodiversity</a>
+  - strategy: <a href="/media/one_page_primer_FA4_NeICStakeholderEngagementManifesto.pdf">FA4 Strengthen Stakeholder Dialogue</a>
 - web pages:
   - <a href="https://wiki.neic.no/wiki/NeIC_Community_Wiki">NeIC wiki</a>
 
