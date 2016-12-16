@@ -17,7 +17,7 @@ less boring sh\*t and focus on getting stuff done!
 What are the good tools? What are their merits? What are the pitfalls?
 What are some bad tools? Why did you try them out? Why didn't they work?
 
-Examples:
+Some kind of schedule, or buffet of topics:
 
 - NBIS Agile (Niclas, Jonas):
   - Intro to Agile (Niclas).
