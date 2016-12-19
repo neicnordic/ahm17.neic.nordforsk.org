@@ -119,7 +119,7 @@ once registration is finalized.
 ### Resources
 
 - one page primers:
-  - projects: <a href="/media/one_page_primer_bdi.pdf">Biodiversity</a>, <a href="/media/one_page_primer_e3ds.pdf">Eiscat_3D Support</a>
+  - projects: <a href="/media/one_page_primer_bdi.pdf">Biodiversity</a>, <a href="/media/one_page_primer_e3ds.pdf">EISCAT_3D Support</a>
   - strategy: <a href="/media/one_page_primer_fa1_poco.pdf">FA1 Pool Competencies</a>, <a href="/media/one_page_primer_fa4_NeICStakeholderEngagementManifesto.pdf">FA4 Strengthen Stakeholder Dialogue</a>, <a href="/media/one_page_primer_strategy_implementation.pdf">Strategy Implementation</a>
 - web pages:
   - <a href="https://wiki.neic.no/wiki/NeIC_Community_Wiki">NeIC wiki</a>
