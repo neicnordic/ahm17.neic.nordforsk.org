@@ -120,7 +120,7 @@ once registration is finalized.
 
 - one page primers:
   - projects: <a href="/media/one_page_primer_bdi.pdf">Biodiversity</a>
-  - strategy: <a href="/media/one_page_primer_FA4_NeICStakeholderEngagementManifesto.pdf">FA4 Strengthen Stakeholder Dialogue</a>
+  - strategy: <a href="/media/one_page_primer_FA4_NeICStakeholderEngagementManifesto.pdf">FA4 Strengthen Stakeholder Dialogue</a>, <a href="/media/one_page_primer_strategy_implementation.pdf">Strategy Implementation</a>
 - web pages:
   - <a href="https://wiki.neic.no/wiki/NeIC_Community_Wiki">NeIC wiki</a>
 
