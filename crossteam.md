@@ -52,7 +52,7 @@ the NeIC director:
 - too short projects
 - too little cross project/team collaboration (too few shared tasks, challenges, deliverables, ...)
 - too small mountains in Skeikampen
-- too few woman in e-infrastructure
+- too few women in e-infrastructure
 - too little incentives to stay in academic environment (e.g. drag of people to industry)
 - users and providers seemingly having diametral goals
 - projects having to diverse goals (operational vs development vs building up competency)
