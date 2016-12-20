@@ -55,6 +55,8 @@ can still very likely be usefully spent doing other productive work.
 
 ### Family policy
 
-It is not recommended to bring your family during the meeting. If you want to
-explore the location with your family you're welcome to do so before or after
-the AHM. NeIC, however, will not arrange any travel or accommodation for that.
+The focus of the all hands meeting should be on spending social time together
+with your teammates and therefore we do in general not recommend to bring your
+family during the meeting. If you want to explore the location with your family
+you’re welcome to do so, but preferably before or after the AHM. NeIC, however,
+will not arrange any travel or accommodation for that.
