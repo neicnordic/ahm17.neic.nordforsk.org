@@ -39,7 +39,7 @@ app.controller('controller', ['$scope', '$http', '$location', function($scope, $
 
     var hash = $location.hash();
 
-    $scope.url = 'http://' + location.host + '/schedule/';
+    $scope.url = 'http://' + location.host;
 
     var hash_is_set = (hash != '');
 
