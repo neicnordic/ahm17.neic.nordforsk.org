@@ -120,6 +120,6 @@ once registration is finalized.
 
 - one page primers:
   - projects: [Biodiversity](/media/one-page-primer/bdi.pdf), [CodeRefinery](/media/one-page-primer/coderefinery.pdf), [Dellingr](/media/one-page-primer/dellingr.pdf), [EISCAT_3D Support](/media/one-page-primer/e3ds.pdf), [ESM](/media/one-page-primer/esm.pdf), [Glenna II](/media/one-page-primer/glenna2.pdf), NLPL, [NT1](/media/one-page-primer/nt1.pdf), [Tryggve](/media/one-page-primer/tryggve.pdf)
-  - strategy: [FA1 Pool Competencies](/media/one-page-primer/fa1.pdf), FA2 Share Resources, FA3 Secure Long-Term Funding, [FA4 Strengthen Stakeholder Dialogue](/media/one-page-primer/fa4.pdf), [Strategy Implementation](/media/one-page-primer/strategy.pdf)
+  - strategy: [FA1 Pool Competencies](/media/one-page-primer/fa1.pdf), [FA2 Share Resources](/media/one-page-primer/fa2.pdf), FA3 Secure Long-Term Funding, [FA4 Strengthen Stakeholder Dialogue](/media/one-page-primer/fa4.pdf), [Strategy Implementation](/media/one-page-primer/strategy.pdf)
 - web pages:
   - [NeIC wiki](https://wiki.neic.no/wiki/NeIC_Community_Wiki)
