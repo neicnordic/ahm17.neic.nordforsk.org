@@ -1,6 +1,6 @@
 ---
 layout: master
-include: registration
+include: default
 ---
 
 ### Registration
@@ -15,4 +15,4 @@ Before you register:
 After you register you should receive an automatic confirmation email
 containing a summary of the fields you have entered. If not, please [contact us](/contact/).
 
-Registration deadline is Sunday, Dec 18, 2016.
+### Registration is now closed
