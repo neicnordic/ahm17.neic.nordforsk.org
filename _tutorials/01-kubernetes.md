@@ -76,6 +76,6 @@ $ minikube help
 To avoid network congestion during tutorial, run these commands to download iso images and other dependencies:
 
 ```shell
-$ minikube start (it will take some time to finish)
+$ minikube start  # this step can take some time
 $ minikube stop
 ```
