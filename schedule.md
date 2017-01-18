@@ -85,8 +85,7 @@ schedule:
       sections:
         - time: 08:45 - 12:00
           type: workshop
-          title: Team session
-          chair: Individual team leaders
+          title: 'Team sessions: <a href="/coderefinery/">CodeRefinery</a>, <a href="/glenna/">Glenna</a>, <a href="/nt1/">NT1</a>, <a href="/tryggve/">Tryggve</a>'
         - time: 12:00 - 13:00
           type: recreation
           title: Practical information and lunch
