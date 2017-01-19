@@ -14,6 +14,9 @@ schedule:
         - time: 19:30 - 21:00
           type: recreation
           title: Dinner
+        - time: 21:00 - 22:00
+          type: recreation
+          title: After-dinner get-together
     - day: Tuesday, January 24, 2017
       sections:
         - time: 08:50 - 09:00
