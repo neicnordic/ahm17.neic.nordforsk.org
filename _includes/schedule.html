@@ -15,7 +15,7 @@
                             {% for section in day.sections %}
                                 {% assign section_index = forloop.index %}
                                 <tr id="highlight-{{ day_index }}-{{ section_index }}" class="{[ get_class('{{ section.type }}', '{{ day_index }}-{{ section_index }}') ]}">
-                                    <td style="width:120px">
+                                    <td style="width:90px">
                                         {{ section.time }}
                                     </td>
                                     <td>
