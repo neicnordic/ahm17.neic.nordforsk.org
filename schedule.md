@@ -29,14 +29,14 @@ schedule:
         - time: 15:00 - 15:50
           type: plenary
           title: '<a href="/crossteam/">Cross-team session: Intro and phase 1</a>'
-          chair: Thomas Röblitz
+          chair: Radovan Bast
         - time: 15:50 - 16:20
           type: recreation
           title: Coffee break
         - time: 16:20 - 17:50
           type: plenary
           title: '<a href="/crossteam/">Cross-team session: Phase 2 and 3</a>'
-          chair: Thomas Röblitz
+          chair: Radovan Bast
         - time: 17:50 - 18:00
           type: recreation
           title: Break
