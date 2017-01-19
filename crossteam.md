@@ -43,8 +43,7 @@ concrete measures to address the issue. Subsequently, NeIC management has
 summoned staff to a mountain resort to develop a plan for fostering
 cross-project collaboration supporting the NeIC strategy.
 
-Consider the following (recent) observations to guide your proposals in saving
-the NeIC director:
+Consider the following (recent, but not necessarily complete) observations to guide your proposals in saving the NeIC director:
 
 - too many meetings
 - too little face-to-face time
@@ -58,6 +57,7 @@ the NeIC director:
 - projects having to diverse goals (operational vs development vs building up competency)
 - projects being too cloudy
 - projects being hampered by political background
+- ... add your own observations
 
 ### Task
 
@@ -76,7 +76,7 @@ Each group will present and defend its findings to the
 audience. Note, this is not just for fun, the proposals shall be
 followed up by the various interlinked bodies of NeIC (XT, provider
 forum, data management forum, project management forum) ... not
-kidding. Plus, the best proposal (criteria: originality, feasibility, and enjoyment) and quickest evaluators (per team using bingo cards)
+kidding. Plus, the best proposal (criteria: originality, feasibility, and enjoyment) and quickest evaluators (one per group using bingo cards)
 will win prices.
 
 ### Format
