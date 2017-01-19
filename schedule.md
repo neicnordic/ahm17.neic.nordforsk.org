@@ -4,10 +4,10 @@ include: schedule
 schedule:
     - day: Monday, January 23, 2017
       sections:
-        - time: 17:00 - 18:00
+        - time: 17:00 - 18:30
           type: recreation
           title: Check-in and registration
-        - time: 18:00 - 19:30
+        - time: 18:30 - 19:30
           type: plenary
           title: Opening session with an introduction by Gudmund Høst
           chair: Radovan Bast
