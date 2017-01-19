@@ -76,29 +76,18 @@ Each group will present and defend its findings to the
 audience. Note, this is not just for fun, the proposals shall be
 followed up by the various interlinked bodies of NeIC (XT, provider
 forum, data management forum, project management forum) ... not
-kidding. Plus, the best proposal and quickest evaluators (everyone)
+kidding. Plus, the best proposal (criteria: originality, feasibility, and enjoyment) and quickest evaluators (per team using bingo cards)
 will win prices.
-
-Tentative evaluation criteria
-
-- originality
-- feasibility
-- enjoyment
 
 ### Format
 
-Cross-team groups of staff will work together on the task. Project
-managers (project specific) and XT members (strategy related) will
-be available to answer any question coming up during phases 1 & 2
-(see schedule below). Communication between groups and project
-managers and XT members shall happen via Slack channels, e.g., on
-\#tryggve for questions about Tryggve or on \#xt for questions about
-the strategy. In case, network or Slack is unavailable there will be a
-fallback solution.
+Cross-team groups of all NeICers (staff, project managers, XT, ... everyone)
+will work together on the task. Communication between groups is possible, but
+groups will be evalated separately.
 
-### Schedule
+### Tentative Schedule & Rooms
 
-15:00-15:10 Introduction (session format, task, goals, rules, groups, roles)
+15:00-15:10 Phase 0: Introduction (session format, task, goals, rules, groups, roles)
 
 15:10-15:50 Phase 1: Collect information & sketch potential collaborations
 
@@ -111,10 +100,11 @@ increase cross-project collaboration within 6, 12 & 24 months
 
 17:10-17:50 Phase 3: Pitch your proposal(s) to the audience (each group gets 3' + 5')
 
+Phases 0 and 3 are take place in the auditorium, are fixed in time and purpose. Phases 1 and 2 are suggestions to groups, but they are free to re-arrange it to their needs. Groups can work in a corner of the auditorium, or chose to work in a room reserved for themselves.
+
 ### Cross-team groups
 
-Groups consisting of members from different teams will be assembled
-once registration is finalized.
+Groups consisting of members from different teams, bodies, countries, gender, etc. will be assembled once registration is finalized.
 
 ### Resources
 
