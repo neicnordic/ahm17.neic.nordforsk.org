@@ -60,7 +60,7 @@ schedule:
           title: Practical information
         - time: 09:00 - 10:30
           type: workshop
-          title: '<a href="/tutorials/">Tutorials</a>'
+          title: '<a href="/tutorials/">Tutorials/workshops</a>'
         - time: 10:30 - 15:00
           type: recreation
           title: Break and lunch
