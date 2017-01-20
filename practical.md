@@ -34,6 +34,15 @@ swimming trunks or ski boots for use of amenities out of scheduled hours.
 - Last shuttle leaves Skeikampen Thursday, Jan 26, 14:00 (arrives at Oslo airport approximately 17:00).
 
 
+### Public transportation in case you need to leave earlier
+
+Bus 211 leaves 4 times a day and takes one hour down to Lillehammer
+train station (9:40, 11:40, 15:40, and 16:40).
+
+From Lillehammer the trains to Oslo Airport are about once every hour
+and take about 1 hour and 45 mins.
+
+
 ### Intended participants
 
 The intended participants of the AHM are personnel contracted in NeIC
