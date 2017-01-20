@@ -12,10 +12,12 @@ among the projects.
 The goals of the two cross-team sessions is to learn something, to do
 something useful, and to have fun.
 
+
 ### Learn something
 
-- inform yourself about ongoing & emerging projects and activities
+- inform yourself about ongoing and emerging projects and activities
 - inform yourself about the NeIC 2016-2020 strategy and its implementation
+
 
 ### Do something useful
 
@@ -23,11 +25,11 @@ something useful, and to have fun.
 - develop ideas for future projects or activities
 - propose actions to mitigate known shortcomings
 
+
 ### Have fun
 
 - enjoy working with your - otherwise remote - colleagues
-- compete with your peer cross-team groups to win a price for the best collaboration proposal
-- win evaluator prices in different categories
+
 
 ### Background story
 
@@ -36,7 +38,7 @@ the implementation of the NeIC 2016-2020 strategy, and particularly with the
 achievements of each of the NeIC teams in 2016. It was noted, however, that
 there is little to no collaboration among the various projects and
 activities, and hence they cannot collaboratively support the implementation
-of NeIC's strategy.
+of the strategy.
 
 The NeIC board has asked the NeIC director to propose - within three months -
 concrete measures to address the issue. Subsequently, NeIC management has
@@ -50,21 +52,21 @@ Consider the following (recent, but not necessarily complete) observations to gu
 - too much management
 - too short projects
 - too little cross project/team collaboration (too few shared tasks, challenges, deliverables, ...)
-- too small mountains in Skeikampen
 - too few women in e-infrastructure
 - too little incentives to stay in academic environment (e.g. drag of people to industry)
 - users and providers seemingly having diametral goals
-- projects having to diverse goals (operational vs development vs building up competency)
+- projects having too diverse goals (operational vs development vs building up competency)
 - projects being too cloudy
 - projects being hampered by political background
-- ... add your own observations
+- people being bogged down in tasks which are not their main tasks
+
 
 ### Task
 
 Propose concrete actions, develop ideas for future projects or define
 specific outcomes requiring / utilizing collaborations among ongoing
 or emerging projects and activities to support the NeIC 2016-2020
-strategy. Target specific combinations of 2, 3, old and new, or all
+strategy. Target specific combinations of two, three, old and new, or all
 projects. Define milestones at 6, 12 and 24 months, and estimate budget
 implications. Answer questions such as
 
@@ -78,11 +80,13 @@ followed up by the various interlinked bodies of NeIC (XT, provider
 forum, data management forum, project management forum) ... not
 kidding.
 
+
 ### Format
 
 Cross-team groups of all NeICers (staff, project managers, XT, ... everyone)
 will work together on the task. Communication between groups is possible, but
-groups will be evalated separately.
+groups will be evaluated separately.
+
 
 ### Tentative Schedule & Rooms
 
@@ -101,9 +105,11 @@ increase cross-project collaboration within 6, 12 & 24 months
 
 Phases 0 and 3 are take place in the auditorium, are fixed in time and purpose. Phases 1 and 2 are suggestions to groups, but they are free to re-arrange it to their needs. Groups can work in a corner of the auditorium, or chose to work in a room reserved for themselves.
 
+
 ### Cross-team groups
 
 Groups consisting of members from different teams, bodies, countries, gender, etc. will be assembled once registration is finalized.
+
 
 ### Resources
 
