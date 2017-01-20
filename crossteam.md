@@ -76,8 +76,7 @@ Each group will present and defend its findings to the
 audience. Note, this is not just for fun, the proposals shall be
 followed up by the various interlinked bodies of NeIC (XT, provider
 forum, data management forum, project management forum) ... not
-kidding. Plus, the best proposal (criteria: originality, feasibility, and enjoyment) and quickest evaluators (one per group using bingo cards)
-will win prices.
+kidding.
 
 ### Format
 
