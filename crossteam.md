@@ -109,9 +109,9 @@ Phases 0 and 3 are take place in the auditorium, are fixed in time and purpose. 
 ### Cross-team groups
 
 - Team red: Oxana, Gudmund, Jonas, Antti, Xiaxi, Gurvinder, Pontus, Michaela, Jyry, Christian
-- Team blue: Bjørn, Jens, Radovan, Erik, Anders, Mattias, Rob, Francesca, Olli, Piotr
+- Team blue: Bjørn, Jens, Radovan, Erik, Anders, Mattias, Rob, Olli, Piotr, Olav
 - Team yellow: Dmytro, Kine, Ulf, Joel, Erland, Johan, Frédéric, Dan, Nikolai, Sabry
-- Team green: Thor, Pål, Tomasz, Niclas, Petter, Maiken, Juha, Abdulrahman, Kasper, John, Olav
+- Team green: Thor, Pål, Tomasz, Niclas, Petter, Maiken, Juha, Abdulrahman, Kasper, John
 
 
 ### Resources
