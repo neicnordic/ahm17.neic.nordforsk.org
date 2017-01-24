@@ -47,7 +47,7 @@ documentation.
 
 To skip over the technicalities of designing the protocol between the
 Raspberry Pi and the Arduino, you may start off with the our
-[skeleton Arduino directory](https://github.com/neicnordic/ahm17.neic.nordforsk.org/teamwork/arduino).
+[skeleton Arduino directory](https://github.com/neicnordic/ahm17.neic.nordforsk.org/tree/gh-pages/teamwork/arduino).
 Most importantly this contains a driver for the extra shield containing
 accelerometer, gyro, and compass.
 
