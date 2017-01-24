@@ -80,7 +80,7 @@ schedule:
           title: Dinner
     - day: Thursday, January 26, 2017
       sections:
-        - time: 08:45 - 12:00
+        - time: 09:00 - 12:00
           type: workshop
           title: 'Team sessions: <a href="/coderefinery/">CodeRefinery</a>, <a href="/glenna/">Glenna</a>, <a href="/nt1/">NT1</a>, <a href="/tryggve/">Tryggve</a>'
         - time: 12:00 - 13:00
