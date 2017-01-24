@@ -33,10 +33,10 @@ something useful, and to have fun.
 
 ### Background story
 
-In its last meeting in 2016, the NeIC board was impressed with progress in
+At the last NeIC board meeting in 2016, the board was impressed with progress in
 the implementation of the NeIC 2016-2020 strategy, and particularly with the
 achievements of each of the NeIC teams in 2016. It was noted, however, that
-there is little to no collaboration among the various projects and
+there is **little to no collaboration among the various projects** and
 activities, and hence they cannot collaboratively support the implementation
 of the strategy.
 
@@ -45,7 +45,8 @@ concrete measures to address the issue. Subsequently, NeIC management has
 summoned staff to a mountain resort to develop a plan for fostering
 cross-project collaboration supporting the NeIC strategy.
 
-Consider the following (recent, but not necessarily complete) observations to guide your proposals in saving the NeIC director:
+Consider the following (recent, but not necessarily complete) observations to
+guide your proposals in saving the NeIC director:
 
 - too many meetings
 - too little face-to-face time
@@ -64,7 +65,7 @@ Consider the following (recent, but not necessarily complete) observations to gu
 ### Task
 
 Propose concrete actions, develop ideas for future projects or define
-specific outcomes requiring / utilizing collaborations among ongoing
+specific outcomes utilizing collaborations among ongoing
 or emerging projects and activities to support the NeIC 2016-2020
 strategy. Target specific combinations of two, three, old and new, or all
 projects. Define milestones at 6, 12 and 24 months, and estimate budget
@@ -74,18 +75,17 @@ implications. Answer questions such as
 - How to collaborate?
 - How to measure success?
 
-Each group will present and defend its findings to the
-audience. Note, this is not just for fun, the proposals shall be
-followed up by the various interlinked bodies of NeIC (XT, provider
-forum, data management forum, project management forum) ... not
-kidding.
+Each group will present and defend its findings to the audience. Note, this is
+not just for fun, the proposals shall be followed up by the various interlinked
+bodies of NeIC (XT, provider forum, data management forum, project management
+forum) ... not kidding.
 
 
 ### Format
 
 Cross-team groups of all NeICers (staff, project managers, XT, ... everyone)
 will work together on the task. Communication between groups is possible, but
-groups will be evaluated separately.
+groups will present their ideas separately.
 
 
 ### Tentative Schedule & Rooms
@@ -97,13 +97,16 @@ groups will be evaluated separately.
 15:50-16:20 Break (coffee, tea, waffles)
 
 16:20-17:00 Phase 2: Develop activities, milestones, you-name-it to
-increase cross-project collaboration within 6, 12 & 24 months
+increase cross-project collaboration and address the above listed issues within 6, 12 & 24 months
 
 17:00-17:10 Take your seats
 
 17:10-17:50 Phase 3: Pitch your proposal(s) to the audience (each group gets 3' + 5')
 
-Phases 0 and 3 are take place in the auditorium, are fixed in time and purpose. Phases 1 and 2 are suggestions to groups, but they are free to re-arrange it to their needs. Groups can work in a corner of the auditorium, or chose to work in a room reserved for themselves.
+Phases 0 and 3 are take place in the auditorium, are fixed in time and purpose.
+Phases 1 and 2 are suggestions to groups, but they are free to re-arrange it to
+their needs. Groups can work in a corner of the auditorium, or chose to work in
+a room reserved for themselves.
 
 
 ### Cross-team groups
