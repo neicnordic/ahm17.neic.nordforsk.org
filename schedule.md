@@ -55,9 +55,6 @@ schedule:
           title: Dinner
     - day: Wednesday, January 25, 2017
       sections:
-        - time: 08:50 - 09:00
-          type: plenary
-          title: Practical information
         - time: 09:00 - 10:30
           type: workshop
           title: '<a href="/tutorials/">Tutorials/workshops</a>'
