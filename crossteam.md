@@ -12,6 +12,8 @@ among the projects.
 The goals of the two cross-team sessions is to learn something, to do
 something useful, and to have fun.
 
+**Credit**: This session has been developed by Thomas Röblitz.
+
 
 ### Learn something
 
