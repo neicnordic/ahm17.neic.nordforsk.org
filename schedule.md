@@ -63,14 +63,14 @@ schedule:
           title: Break and lunch
         - time: 15:00 - 16:30
           type: plenary
-          title: Teamwork challenge
+          title: '<a href="/teamwork/">Teamwork challenge part 1: Robot hardware and software design</a>'
           chair: Petter A. Urkedal
         - time: 16:30 - 17:00
           type: recreation
           title: Coffee break
         - time: 17:00 - 19:00
           type: plenary
-          title: Teamwork challenge and competition
+          title: '<a href="/teamwork/">Teamwork challenge part 2: Robot apocalypse</a>'
           chair: Petter A. Urkedal
         - time: 19:00 - 20:00
           type: recreation

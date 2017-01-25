@@ -43,6 +43,12 @@ You bring your own laptop to connect to the robot and to access available
 documentation.
 
 
+### Building the robot
+
+We recommend to follow [our instructions](/teamwork/building/) but you are
+welcome to experiment and create different robots.
+
+
 ### Arduino Software
 
 To skip over the technicalities of designing the protocol between the
