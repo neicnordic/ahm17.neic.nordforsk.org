@@ -81,12 +81,12 @@ We recommend to follow [our instructions](/teamwork/building/) but you are
 welcome to experiment and create different robots.
 
 
-### Arduino Software and Interfacing from Raspberry Pi
+### Arduino Software and interfacing with Raspberry Pi
 
 To skip over the technicalities of designing the protocol between the
 Raspberry Pi and the Arduino, you may start off with the our
 [skeleton code](https://github.com/neicnordic/ahm17.neic.nordforsk.org/tree/gh-pages/teamwork).
-The `arduino` directory contains contains a driver for the extra shield
+The `arduino` directory contains a driver for the extra shield
 containing accelerometer, gyro, and compass, and main application serving
 some basic commands.  The `python` directory contains a partial
 implementation of the corresponding Raspberry Pi code.
