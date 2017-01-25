@@ -16,12 +16,41 @@ well as driving along a predictable path. This may sound straight
 forward, but note that you don't have a GPS, only partial information about
 the robots location. Our environment will consist of walls and boxes.
 
-Some things we make try out include:
+#### Format
 
-- Turn the robot to a given absolute angle.
-- Drive in a straight line (Do you expect the robot to go straight by
-  giving the same power to the two motors?).
+We want you to organize the work.  We assign to you some teams initially to
+bootstrap the process.  You can then brainstorm what sub-problems needs to
+be solved, and which ones can be worked on in parallel.  You can appoint a
+leader and other roles as you feel necessary.  You can eventually contact
+the other teams to regroup into workgroups addressing separate tasks.  These
+workgrounps will then work together as needed to create the right
+interfaces, so that you together will end up with a consistent solution.
 
+Focus on relation between the problem and hand and the organization of the
+work.  Redistribute people, regroup, merge, and split as you learn more
+about the problem.
+
+#### Detailed Goal Examples
+
+Just to give an idea of what to aim for, consider the following challenges:
+
+- Make a function to turn the robot to a given absolute angle.
+- Make a function to drive in a straight line.  (Do you expect the robot to
+  go straight be giving the same power to the two motors?)
+- Drive the function in an equilateral triangle, attempting to get back to
+  the starting point.
+- Make a function which learns its position by measuring the distances to
+  two walls, possibly driving up close enough first.
+- Make a function which given an initial unknown location can drive to a
+  provided location.
+- Make a function which can locate a box.
+- Make a function which can locate two boxes and park between them.
+
+But note that before archiving most of the higher level goals, you will need
+to learn to control the hardware and esp. get sensible results from the
+sensors.  It's up to you to formulate intermediate challenges.  Don't expect
+to solve all the higher level challenges, they are not as easy as they may
+seem.
 
 ### Hardware
 
