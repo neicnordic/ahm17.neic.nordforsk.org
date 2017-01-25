@@ -103,7 +103,7 @@ password to be provided.
 
 The Pis are numbered from 1 to 4, and the corresponding IP numbers are:
 
-- Robot 1: `192.168.1.11`
-- Robot 2: `192.168.1.12`
-- Robot 3: `192.168.1.13`
-- Robot 4: `192.168.1.14`
+- Robot 1: `10.10.0.228`
+- Robot 2: `10.10.1.116`
+- Robot 3: `10.10.2.59`
+- Robot 4: `10.10.3.208`
