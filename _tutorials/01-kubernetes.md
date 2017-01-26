@@ -3,6 +3,8 @@ organizers: Gurvinder Singh
 title: "Intro to Kubernetes and hands-on for deploying a Jupyter Notebook"
 ---
 
+The slided for this tutorial is available at [here](http://gurvin-slides.paas.uninett.no/kubernetes-neic-20170124.html#1) and the code can be found on github [here](https://github.com/gurvindersingh/k8s-tutorial).
+
 This tutorial will provide brief introduction to
 [Kubernetes](http://kubernetes.io) concepts and its architecture. Participants
 will later deploy a Jupyter Notebook application on Kubernetes running on their
