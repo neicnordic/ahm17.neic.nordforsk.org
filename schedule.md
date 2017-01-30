@@ -45,7 +45,7 @@ schedule:
           title: Break
         - time: 18:00 - 19:00
           type: plenary
-          title: '<a href="https://goo.gl/m9q75O">Joel Hedlund: "How to succeed in life"</a>'
+          title: '<a href="https://goo.gl/V6IvAL">Joel Hedlund: "How to succeed in life"</a>'
           chair: Michaela Barth
         - time: 19:00 - 20:00
           type: recreation
