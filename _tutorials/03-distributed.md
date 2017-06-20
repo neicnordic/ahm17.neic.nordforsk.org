@@ -24,7 +24,7 @@ Some kind of schedule, or buffet of topics:
   - How NBIS (all?) uses Agile, with Github, Zenhub, and Slack to drive distributed software development.
     - [Zenhub](https://www.zenhub.com/) (Jonas) to coordinate software development.
     - ...
-  - How NBIS uses [Spotify Rythm](https://goo.gl/ao0pZQ) (Jonas) to do agile project prioritization.
+  - How NBIS uses [Spotify Rhythm](https://goo.gl/ao0pZQ) (Jonas) to do agile project prioritization.
 - How Joel works with Google docs in stakeholder engagement for Tryggve1/2, live minutes.
 - How Radovan works with Trello to track work in NeIC 2017 conference program.
 - How Jonas/NBIS uses [Slack for Education](https://get.slack.help/hc/en-us/articles/206646877-Slack-for-Education) with a lot of integrations to improve distributed work (Zenhub, github, hangout, uptimerobot, growbot...).
