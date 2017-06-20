@@ -20,7 +20,7 @@ What are some bad tools? Why did you try them out? Why didn't they work?
 Some kind of schedule, or buffet of topics:
 
 - NBIS Agile (Niclas, Jonas):
-  - [Intro to Agile](https://drive.google.com/file/d/0B_ns0EVjmCCZMmVrbnFJOXJxR2M/view) (Niclas).
+  - [Intro to Agile](https://drive.google.com/file/d/0B_ns0EVjmCCZMmVrbnFJOXJxR2M/view) ([.pdf](https://drive.google.com/file/d/0B_ns0EVjmCCZeE1wOTBBS3kwbTA/view?usp=drive_web))(Niclas).
   - How NBIS (all?) uses Agile, with Github, Zenhub, and Slack to drive distributed software development.
     - [Zenhub](https://www.zenhub.com/) (Jonas) to coordinate software development.
     - ...
