@@ -9,7 +9,7 @@ schedule:
           title: Check-in and registration
         - time: 18:30 - 19:30
           type: plenary
-          title: Opening session with an introduction by Gudmund Høst
+          title: '<a href="/assets/170123-NeIC-strategy-and-overview-for-AHM-GHo.pdf">Opening session with an introduction by Gudmund Høst</a>'
           chair: Radovan Bast
         - time: 19:30 - 21:00
           type: recreation
